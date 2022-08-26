@@ -7,5 +7,5 @@ OBS: Aplicativo não pronto para produção apenas desenvolvimento e demonstrati
 
 obs: Tenha o python instalado
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` \n
 `python app.py`
